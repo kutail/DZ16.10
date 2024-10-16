@@ -18,8 +18,8 @@ int main()
     const int size3 = 12;
     int arr3[size3];
 
-    //Zadaniye1(arr, size);
-    //Zadaniye2(arr, size);
+    Zadaniye1(arr, size);
+    Zadaniye2(arr, size);
     Zadaniye3(arr3, size3);
 
     return 0;
